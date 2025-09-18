@@ -12,7 +12,7 @@ A curated collection of delicious pesto recipes for your dinner parties!
 Browse our collection of recipes and find the perfect pesto for your next gathering.
 
 ## Contributing
-Feel free to submit issues with your favorite pesto recipe suggestions!
+Feel free to submit issues with your favorite pesto recipe suggestions! Thanks
 
 ## License
 MIT
